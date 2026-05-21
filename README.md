@@ -1,4 +1,7 @@
 # Blackjack 21 - Python / Pygame
+<p align="center">
+  <img src="blackjack/assets/logo1.png" alt="Blackjack 21 screenshot" width="700">
+</p>
 
 Blackjack 21 is a desktop card game built with Python and Pygame. It includes a graphical interface, chip betting, dealer logic, card animations, hover effects, and full Blackjack rules.
 
